@@ -1,0 +1,19 @@
+div.cnt {
+    background-image: url("../img/maiz-fondo.png");
+}
+
+p.card-text {
+    text-align: justify;
+    font-size: 24px;
+}
+
+h5.card-title {
+    text-align: center;
+    font-size: 30px;
+    text-transform: inherit;
+}
+
+.caja {
+    position: relative;
+    display: inline-block;
+}

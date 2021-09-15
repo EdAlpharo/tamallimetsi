@@ -1,0 +1,35 @@
+div.contenedor-n1 {
+    background-image: url("../img/epeGrupo.jpg");
+}
+
+p.card-text {
+    text-align: justify;
+    font-size: 20px;
+}
+
+h5.card-title {
+    text-align: center;
+    font-size: 30px;
+    text-transform: inherit;
+}
+
+p.card-text.txt1 {
+    text-align: justify;
+    font-size: 18px;
+}
+
+li.list-group-item {
+    text-align: center;
+    font-size: 30px;
+    text-transform: inherit;
+}
+
+.card {
+    align-items: rigth;
+}
+
+#content::after {
+    display: block;
+    content: "";
+    clear: both;
+}
