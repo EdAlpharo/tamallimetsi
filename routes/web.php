@@ -32,6 +32,10 @@ Route::get('/producto', function () {
 Route::get('/social', function () {
     return view('esquemaSocial');
 });
+
 Route::get('/pedido', function () {
     return view('enviarPedido');
 });
+
+
+
