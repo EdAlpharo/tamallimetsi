@@ -12,7 +12,7 @@
 
 <div class="cnt">
 <br>
-<div class="card container-fluid" style="width: 18rem;">
+<div class="card container-fluid" style="width: 15rem;">
   <img src="{{ asset('img/logo-2.png')}}" class="card-img-top" alt="..." style="width:auto; height:auto">
   <div class="card-body">
     <p class="card-text" style="font-family: 'arial'; text-align:center;font-size: 18px;">"Tamales artesanales, elaborados con sazón y corazón."</p>
