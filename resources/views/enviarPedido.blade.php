@@ -51,5 +51,4 @@
 </div>
 
 <br>
-<!-- Comentario prueba Git -->
 @endsection
