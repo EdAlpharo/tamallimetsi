@@ -8,13 +8,13 @@
         Pedido
     </h1>
     <div class="container-fluid">
-        <?php 
-            
+        <?php
+
         ?>
-    
+
     </div>
 
 </div>
 
 
-@endsection
+@stop

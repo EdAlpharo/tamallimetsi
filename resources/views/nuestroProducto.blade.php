@@ -66,14 +66,14 @@
 <div class="container-fluid">
 <p>
   *Los tamales son elaborados los días Jueves por lo que la recolección sería los días viernes y sabados para una mayor frescura de su Producto.
-</p> 
+</p>
 <p>
 *Se requiere que el pedido se haga antes del día martes para contemplarlo en la producción de esa semana y entregarle el dia viernes.
 </p>
 <p>
 *En caso de que su pedido supere las 50 unidades y se requiera en una fecha especifica nos pondremos en contacto con usted.
-</p>  
+</p>
 </div>
 
 
-@endsection
+@stop

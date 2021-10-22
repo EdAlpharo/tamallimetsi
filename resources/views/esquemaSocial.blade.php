@@ -25,8 +25,8 @@
             <li>443 participantes en nuestro seminario de adicciones.</li>
             <li>1,247 niños participantes del curso de verano.</li>
             <li>13 familias reintegradas después de nuestro programa de ayuda.</li>
-            <li>9 casas y 3 centros de costura construidos.</li>   
-            </div>    
+            <li>9 casas y 3 centros de costura construidos.</li>
+            </div>
         </div>
             <div id="object2" style="width: 50%; float:right">
             <div class="container-fluid">
@@ -37,8 +37,8 @@
             </p>
             <p style="text-align:justify">
             El proyecto inició como un esfuerzo surgido por la necesidad e iniciativa propia de nuestra organización. Ha sido apoyado por Fundación Merced Querétaro y El Municipio de Querétaro, mediante los cuales obtuvimos los recursos para la profesionalización del proyecto, desarrollo de marca, inocuidad, equipamiento y compra de insumos. Contamos con aliados como Mini-Green AC y Mostaza con los que buscamos potenciar y escalar el proyecto.
-            </p>  
-            </div> 
+            </p>
+            </div>
             </div>
         </div>
 
@@ -46,4 +46,4 @@
 </div>
 <br>
 
-@endsection
+@stop
