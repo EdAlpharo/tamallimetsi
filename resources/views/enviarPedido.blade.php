@@ -4,9 +4,7 @@
 <link rel="stylesheet" href="<?php echo asset('css/pedido.css') ?>" type="text/css">
 
 
-
-<br>
-<br>
+<div class="dvgen">
 <div>
     <div class="container-xxl">
     <form class="row g-3">
@@ -51,4 +49,7 @@
 </div>
 
 <br>
+
+</div>
+
 @stop

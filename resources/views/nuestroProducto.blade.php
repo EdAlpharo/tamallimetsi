@@ -3,6 +3,9 @@
 @section('vistaBase')
 <link rel="stylesheet" href="<?php echo asset('css/nosotros.css') ?>" type="text/css">
 
+<div class="dvgen">
+
+
 <div class="container">
     <br>
     <h1 style="text-align:center">Nuestro Producto</h1>
@@ -74,6 +77,6 @@
 *En caso de que su pedido supere las 50 unidades y se requiera en una fecha especifica nos pondremos en contacto con usted.
 </p>
 </div>
-
+</div>
 
 @stop

@@ -8,3 +8,7 @@ h5.card-title {
     content: "";
     clear: both;
 }
+
+.dvgen {
+    padding-top: 8%;
+}

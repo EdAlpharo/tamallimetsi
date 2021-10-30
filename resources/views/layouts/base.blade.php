@@ -10,17 +10,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
     <title>Tamallimetsi</title>
-</head>
-<body>
 
-
-<!-- Sidebar -->
+<section class="wrapper">
 <div>
-
 <div style="background-color:#f8f9fa">
 <img src="{{ asset('img/Logo.png')}}" class="logo" style="width: 125px; height: 125px; float:center; display:block;margin:0 auto 0 auto; border-radius:10%">
 </div>
-
 
 <nav class="navbar-nav navbar-expand-sm navbar-light bg-light" id="topheader">
     <div class="mx-auto d-sm-flex d-block">
@@ -56,11 +51,16 @@
 
 </div>
 
+</section>
 
 
-<!--Fin navbar-->
+</head>
+<body>
+
 
 @yield('vistaBase')
 @extends('layouts.foot')
+
+
 </body>
 </html>

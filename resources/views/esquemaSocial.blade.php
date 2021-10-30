@@ -4,6 +4,8 @@
 <link rel="stylesheet" href="<?php echo asset('css/social.css') ?>" type="text/css">
 <br>
 
+<div class="dvgen">
+
 <div class="card bg-dark text-black">
     <img src="{{ asset('img/graduados.png')}}" class="card-img" alt="...">
     <div class="card-img-overlay">
@@ -11,7 +13,7 @@
     </div>
 </div>
 <br>
-<div class="container-fluid">
+<div class="container">
     <div id="content">
         <div id="left">
             <div id="object1" style="width: 50%; float:left">
@@ -45,6 +47,10 @@
     </div>
 </div>
 <br>
+
+</div>
+
+
 
 @stop
 

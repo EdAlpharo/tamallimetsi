@@ -33,3 +33,7 @@ li.list-group-item {
     content: "";
     clear: both;
 }
+
+.dvgen{
+    padding-top: 10%;
+}

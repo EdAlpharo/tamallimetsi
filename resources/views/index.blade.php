@@ -3,6 +3,8 @@
 @section('vistaBase')
 <link rel="stylesheet" href="<?php echo asset('css/index.css')?>" type="text/css">
 
+<div class="dvgen">
+
 <br>
 <div class="caja">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,6 +39,10 @@
   </div>
 </div>
 </div>
+
+</div>
+
+
 
 
 @stop

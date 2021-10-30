@@ -4,6 +4,8 @@
 <link rel="stylesheet" href="<?php echo asset('css/nosotros.css') ?>" type="text/css">
 <br>
 
+<div class="dvgen">
+
 <div class="contenedor-n1">
   <div class="container">
     <div class="card mb-4" style="max-width: 25rem;">
@@ -50,6 +52,9 @@
   </div>
 </div>
 <br>
+
+</div>
+
 
 
 

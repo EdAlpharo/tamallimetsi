@@ -3,12 +3,15 @@
 @section('vistaBase')
 <link rel="stylesheet" href="<?php echo asset('css/historia.css')?>" type="text/css">
 
+
+<div class="dvgen">
+
+
 <div class="container">
     <br>
     <h1 style="text-align: center">Nuestra historia</h1>
     <br>
 </div>
-
 
 <div class="card mb-7" style="width:auto">
   <img src="{{ asset('img/tamales.jpg')}}"class="rounded-start" alt="..." style="height: 500px">
@@ -65,6 +68,10 @@
   </div>
 </div>
 </div>
+
+</div>
+
+
 
 
 @stop
