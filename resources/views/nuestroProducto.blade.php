@@ -33,7 +33,7 @@
       </div>
       <li class="list-group-item">Precio $20.00</li>
       <div class="card-footer">
-      <a href="#" class="btn btn-primary">Realizar pedido</a>
+      <a href="/pedido" class="btn btn-primary">Realizar pedido</a>
       </div>
     </div>
   </div>
@@ -46,7 +46,7 @@
       </div>
       <li class="list-group-item">Precio $20.00</li>
       <div class="card-footer">
-      <a href="#" class="btn btn-primary">Realizar pedido</a>
+      <a href="/pedido" class="btn btn-primary">Realizar pedido</a>
       </div>
     </div>
   </div>
@@ -59,7 +59,7 @@
       </div>
       <li class="list-group-item">Precio $82.00</li>
       <div class="card-footer">
-      <a href="#" class="btn btn-primary">Realizar pedido</a>
+      <a href="/pedido" class="btn btn-primary">Realizar pedido</a>
       </div>
     </div>
   </div>

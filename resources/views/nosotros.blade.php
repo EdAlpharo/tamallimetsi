@@ -15,7 +15,7 @@
         <p class="card-text">Somos una organización sin fines lucrativos que apoya a jóvenes talentos de la Sierra Gorda y de comunidades indígenas en Querétaro. Les brindamos manutención, asesoría y los apoyamos a conseguir becas para que puedan cursar estudios técnicos y profesionales en la ciudad de Querétaro.</p>
       </div>
     </div>
-  </div>
+  </div>  
 </div>
 
 
