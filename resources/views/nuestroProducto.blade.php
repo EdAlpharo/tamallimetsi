@@ -32,9 +32,6 @@
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       </div>
       <li class="list-group-item">Precio $20.00</li>
-      <div class="card-footer">
-      <a href="/pedido" class="btn btn-primary">Realizar pedido</a>
-      </div>
     </div>
   </div>
   <div class="col">
@@ -45,9 +42,6 @@
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       </div>
       <li class="list-group-item">Precio $20.00</li>
-      <div class="card-footer">
-      <a href="/pedido" class="btn btn-primary">Realizar pedido</a>
-      </div>
     </div>
   </div>
   <div class="col">
@@ -58,9 +52,6 @@
         <p class="card-text"> below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       </div>
       <li class="list-group-item">Precio $82.00</li>
-      <div class="card-footer">
-      <a href="/pedido" class="btn btn-primary">Realizar pedido</a>
-      </div>
     </div>
   </div>
 </div>
@@ -78,5 +69,6 @@
 </p>
 </div>
 </div>
+<a href="/pedido" class="btn btn-flotante">Hacer pedido</a>
 
 @stop

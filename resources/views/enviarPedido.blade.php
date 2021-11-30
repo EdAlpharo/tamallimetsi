@@ -55,19 +55,4 @@
 
 </div>
 
-<form action="{{ url('/send-message') }}" method="post">
-        {{ csrf_field() }}
-        <div class="form-group">
-            <label for="email">Email address</label>
-            <input type="email" class="form-control" id="email" name="email" placeholder="Ingresa tu correo electronico">
-        </div>
-        <div class="form-group">
-            <label for="message">Message</label>
-            <textarea name="message" id="message" class="form-control" placeholder="Ingresa tu mensaje" rows="10"></textarea>
-        </div>
-        <div class="form-group">
-            <button type="submit" class="btn btn-primary">Submit</button>
-        </div>
-    </form>
-
 @stop

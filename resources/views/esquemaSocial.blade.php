@@ -50,6 +50,8 @@
 
 </div>
 
+<a href="/contribuir" class="btn btn-flotante">Contribuir</a>
+
 
 
 @stop

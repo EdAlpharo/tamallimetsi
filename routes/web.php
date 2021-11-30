@@ -39,6 +39,10 @@ Route::get('/pedido', function () {
     return view('enviarPedido');
 });
 
+Route::get('/contribuir', function () {
+    return view('donar');
+});
+
 Route::get('/updated-activity','App\Http\Controllers\TelegramBotController@updatedActivity' )->name('actividad');
 Route::post('/send-message', 'App\Http\Controllers\TelegramBotController@storeMessage');
 
