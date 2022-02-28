@@ -68,6 +68,7 @@
   </div>
 </div>
 </div>
+<a href="/pedido" class="btn btn-flotante">Hacer pedido</a>
 
 </div>
 
